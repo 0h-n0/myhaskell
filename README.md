@@ -1,0 +1,2 @@
+# myhaskell
+Haskell study repo.
